@@ -1,0 +1,1 @@
+export * as HelloRemax from './helloRemax';
